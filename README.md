@@ -6,7 +6,7 @@ Hey, Yung is HERE!
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunyung&theme=vue-dark&layout=compact&card_width=445)
 
-📫 How to reach me: yungyung7654321@gmail.com
+📫 How to reach me: jhenyunghsu@gmail.com
 
 <!--
 **Yunyung/Yunyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
